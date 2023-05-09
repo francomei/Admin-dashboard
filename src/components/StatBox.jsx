@@ -19,6 +19,9 @@ const StatBox = ({ title, subtitle, icon, progress, increase }) => {
             {title}
           </Typography>
         </Box>
+        <Typography>
+            <ProgressCircle progress={progress} />
+        </Typography>
       </Box>
     </Box>
   );
