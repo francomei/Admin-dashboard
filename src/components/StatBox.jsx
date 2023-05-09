@@ -23,3 +23,5 @@ const StatBox = ({ title, subtitle, icon, progress, increase }) => {
     </Box>
   );
 };
+
+export default StatBox;
