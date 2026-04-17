@@ -4,13 +4,18 @@
 A full-stack admin dashboard for managing data, users, and analytics in a modern web application.
 </p>
 
+<p align="center">
+👉 <a href="https://admin-dashboard-theta-sepia.vercel.app" target="_blank"><strong>Live Demo</strong></a>
+</p>
+
 ---
 
 ## 🚀 About the Project
 
-This project is an admin dashboard designed to simulate a real-world business environment where users can manage data, visualize metrics, and interact with dynamic content.
+This project is an admin dashboard built to simulate a real-world business application.  
+It allows users to manage data, visualize information, and interact with dynamic content through a clean and responsive interface.
 
-It focuses on building a scalable structure, clean UI, and efficient data handling between frontend and backend.
+The goal of this project was to practice full-stack development, focusing on scalability, UI design, and data handling.
 
 ---
 
@@ -26,18 +31,14 @@ It focuses on building a scalable structure, clean UI, and efficient data handli
 - Express  
 
 ### 🗄️ Database
-- PostgreSQL *(or MySQL — ajustalo según uses)*  
-
-### 🧪 Testing
-- Cypress *(si lo agregás, esto suma muchísimo)*  
+- PostgreSQL *(edit if needed)*  
 
 ---
 
 ## ✨ Features
 
-- 🔐 User authentication (login/register) *(si lo tenés, si no sacalo)*  
-- 📊 Interactive dashboard with data visualization  
-- 📁 CRUD operations (create, read, update, delete)  
+- 📊 Dashboard with data visualization  
+- 📁 CRUD operations  
 - 🔍 Data filtering and search  
 - 📱 Responsive design  
 
@@ -45,14 +46,13 @@ It focuses on building a scalable structure, clean UI, and efficient data handli
 
 ## 📸 Preview
 
-<!-- agregá screenshots acá -->
-<!-- ![dashboard](link-imagen) -->
+<img src="https://via.placeholder.com/800x400.png?text=Dashboard+Preview" />
 
 ---
 
 ## 🌐 Live Demo
 
-👉 [View Live](#)
+👉 https://admin-dashboard-theta-sepia.vercel.app
 
 ---
 
